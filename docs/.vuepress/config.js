@@ -3,7 +3,7 @@ module.exports = {
   description: "Documentation for Random.icu API",
 
   themeConfig: {
-    navbar: false,
+    navbar: true,
     sidebar: [
       ['/', 'Home'],
       '/page-a',
