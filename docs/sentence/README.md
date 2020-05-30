@@ -2,12 +2,8 @@
 
 ## Endpoint 1
 
-description
+`/generators/random-sentence`
 
 ## Endpoint 2
 
-description
-
-## Endpoint 3
-
-description
+`/generators/random-sentences`

@@ -17,6 +17,7 @@ module.exports = {
       ['/', 'Home'],
       ['/external/', 'External'],
       ['/sentence/', 'Sentence'],
+      ['/limits/', 'Limits'],
       ['/contribute', 'Contribute']
     ],
     lastUpdated: 'Last updated',

@@ -2,12 +2,16 @@
 
 ## Endpoint 1
 
-description
+`/external/generators/lorem-bytes`
 
 ## Endpoint 2
 
-description
+`/external/generators/lorem-words`
 
 ## Endpoint 3
 
-description
+`/external/generators/lorem-paragraphs`
+
+## Endpoint 4
+
+`/external/generators/lorem-lists`
